@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    height: 400px;
+    background-image: url(https://atarde.com.br/img/Artigo-Destaque/1260000/Novo-Os-Caca-Fantasmas-e-uma-continuacao-aquem-par0126545000202404111052.jpg?xid=6176113);
+    background-size: 100% 400px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header h1{
+    padding-bottom: 50px;   
+    color: #3373a7;
+    font-family: papyrus;
+    font-size: 50px;
+    margin-left: -35px;
+}
+
+.main{
+    background-color: #70bfff;
+
+}
+
+.footer{
+    background-color: #70bfff
+}
+
+.imagem2{
+    width: 630px;
+    height: 330px;
+    margin-left: 230px;
+}
